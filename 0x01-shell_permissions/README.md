@@ -1,0 +1,3 @@
+# Shell permissions
+
+* cool
